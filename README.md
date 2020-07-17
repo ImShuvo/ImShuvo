@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi, I'm Shuvo. I'm a full-stack web developer & WordPress specialist from Dhaka, Bangladesh.
+
+I love working with WordPress, PHP and JavaScript. I often use WordPress for general purpose websites, Shopify & WooCommerce for eCommerce website.
+
 <!--
 **ImShuvo/ImShuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
