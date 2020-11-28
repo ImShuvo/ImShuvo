@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Shuvo. I'm a Front-End Developer & WordPress specialist from Dhaka, Bangladesh.
+Hi, I'm Najmul. I'm a Front-End Developer & WordPress specialist from Dhaka, Bangladesh.
 
 I love working with WordPress, PHP and JavaScript. I often use WordPress for general purpose websites, Shopify & WooCommerce for eCommerce website.
 
